@@ -177,6 +177,7 @@ export const getRoleTheme = (role: string) => {
         colors: {
           50: 'bg-blue-50',
           100: 'bg-blue-100',
+          200: 'bg-blue-200',
           500: 'bg-blue-500',
           600: 'bg-blue-600',
           700: 'bg-blue-700',
